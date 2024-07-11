@@ -1,5 +1,6 @@
 # luzonensis
 ##PLEASE CITE THIS PAPER IF YOU USE OR REFERENCE OUR DATASET
+
 Molar proportions, endocranial volume, and insular nanism in fossil Homo
 
 Tesla A. Monson*, Andrew P. Weitz, Marianne F. Brasil
@@ -19,6 +20,5 @@ Results
 Maxillary and mandibular relative third molar lengths are significantly correlated with endocranial volume and body mass in Plio-Pleistocene hominids, but Homo floresiensis deviates from this scaling relationship. Using this significant allometric relationship, we estimated endocranial volume and body mass for Homo luzonensis. 
 
 Discussion
-Geologically older hominid taxa tend to have relatively longer third molars and smaller endocranial volumes. We discuss the effects of growth rates on the dentition and explore the hypothesis that H. luzonensis represents a short-statured population that evolved via insular island nanism and postnatal growth restriction. 
-![image](https://github.com/teslamonson/luzonensis/assets/31598152/e6b09f34-2a08-45ae-b42b-19c469eda483)
+Geologically older hominid taxa tend to have relatively longer third molars and smaller endocranial volumes. We discuss the effects of growth rates on the dentition and explore the hypothesis that H. luzonensis represents a short-statured population that evolved via insular island nanism and postnatal growth restriction.
 
